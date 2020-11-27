@@ -1,6 +1,6 @@
 I am rich 
 
-A new Flutter application.
+A new Flutter application developed using Android Studio.
 
 ## Getting Started
 
